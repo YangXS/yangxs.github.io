@@ -12,7 +12,7 @@ I am an Associate Professor at National Lab of Pattern Recognition, Institute of
 
 ## Research Interest
 
-* **Multimedia & Computer Vision:** Image/Video Analysis, Social Event Analysis
+* **Multimedia & Computer Vision:** Image/Video Analysis, Event Analysis
 * **Pattern Recognition & Machine Learning:** Sparse Coding, Deep Learning
 
 ## Publications
