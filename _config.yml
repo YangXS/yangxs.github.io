@@ -3,7 +3,7 @@ url: "https://yangxs.ac.cn"
 baseurl: "/yangxs.github.io"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
