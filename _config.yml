@@ -1,7 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
-remote_theme: ankitsultana/researcher@gem
+title: Xiaoshan Yang
+url: "https://yangxs.ac.cn"
+baseurl: "/yangxs.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -9,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/YangXS"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
@@ -18,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/yangxs.github.io/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
