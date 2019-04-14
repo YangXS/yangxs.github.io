@@ -1,6 +1,4 @@
-# Researcher
-
-### [Demo Website](http://ankitsultana.com/researcher)
+Revised from ### [Demo Website](http://ankitsultana.com/researcher)
 
 ### License
 
