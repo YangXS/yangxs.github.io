@@ -13,9 +13,9 @@ I am an Associate Professor at National Lab of Pattern Recognition, Institute of
 ## Research Interest
 
 * **Multimedia & Computer Vision:** 
-+ <font size="3">Image/Video Analysis, Event Analysis, Attribute Learning</font><br />
+  + <font size="3">Image/Video Analysis, Event Analysis, Attribute Learning</font>
 * **Pattern Recognition & Machine Learning:** 
-+ <font size="3">Sparse Coding, Deep Learning, Transfer Learning</font><br />
+  + <font size="3">Sparse Coding, Deep Learning, Transfer Learning</font>
 
 ## Publications
 
