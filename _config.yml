@@ -1,4 +1,4 @@
-title: Xiaoshan Yang (杨小汕)
+title: Xiaoshan Yang
 url: "https://yangxs.ac.cn"
 baseurl: "/yangxs.github.io"
 
@@ -8,7 +8,7 @@ ins_logo: "./casia.jpg"
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/YangXS"
+footer_url: "https://github.com/ankitsultana/researcher"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
