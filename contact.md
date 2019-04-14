@@ -8,7 +8,8 @@ is_contact: true
 ---
 
 ## Mailing Address
-
+> Intelligence Building 1311
+> 
 > 95, Zhongguancun East Road
 > 
 > Beijing
