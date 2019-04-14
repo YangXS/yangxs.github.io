@@ -1,4 +1,5 @@
-Revised from ### [Demo Website](http://ankitsultana.com/researcher)
+Revised from the following demo
+### [Demo Website](http://ankitsultana.com/researcher)
 
 ### License
 
