@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yangxs.jpg">
 
-I am currently an Associate Professor at National Lab of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (CASIA). I obtained my Doctor’s degree at the CASIA. Before that, I obtained my Master’s degree of Computer Science from Beijing Institute of Technology (BIT). I obtained my bachelor’s degree of Applied Maths from North China University of Technology (NCUT).
+I am currently an Associate Professor at National Lab of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (CASIA). I obtained my Doctor’s degree at the CASIA. Before that, I obtained my Master’s degree of Computer Science from Beijing Institute of Technology (BIT).
 
 ## Research Interest
 
