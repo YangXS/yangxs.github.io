@@ -3,24 +3,18 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [xiaoshan.yang *AT* nlpr.ia.ac.cn](mailto:xiaoshan.yang *AT* nlpr.ia.ac.cn)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+86-01082544559](tel:+86-01082544559)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 95, Zhongguancun East Road
+> 
+> Beijing
 >
-> London
->
-> United Kingdom
+> China
 
----
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
