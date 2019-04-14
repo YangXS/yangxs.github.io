@@ -8,6 +8,8 @@ layout: default
 
 I am currently an Associate Professor at National Lab of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (CASIA). I obtained my Doctor’s degree at the CASIA. Before that, I obtained my Master’s degree of Computer Science from Beijing Institute of Technology (BIT).
 
+---
+
 ## Research Interest
 
 **Multimedia & Computer Vision:** Image/Video Analysis, Social Event Analysis
@@ -37,27 +39,24 @@ Xiaoshan Yang, Tianzhu Zhang, Changsheng Xu: Locality discriminative coding for 
 Xiaoshan Yang, Tianzhu Zhang, Changsheng Xu, Min Xu: Graph-Guided Fusion Penalty Based Sparse Coding for Image Classification. PCM 2013: 475-484
 Jianbing Shen, Xiaoshan Yang, Yunde Jia, Xuelong Li: Intrinsic images using optimization. CVPR 2011: 3481-3487
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Projects
+Youth Fund of NSFC: Knowledge-driven Video Understanding and Analysis
+Research Program of NLPR: Knowledge-driven Adversarial Video Generation
+CCF-Tencent Open Fund: Highlight Detection
+Cooperation Project of Migu: AI Service System for Video Annotation
+International Collaboration Project of NSFC: Personalized Health Management Based on Real-time Behavioral Data
 
-Here is a table
+## Awards
 
 Year | Award | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2018 | Best Patent Award  | CCF-Tencent Open Fund
+2017 | Best Paper Award | ChinaMM
+2017 | Excellent Doctoral Dissertation | Chinese Academy of Sciences
+2016 | President Scholarship | Chinese Academy of Sciences
 
-Here is a horizontal rule
+## Services
 
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* ACM Multimedia 2018/2019 PC member
+* Journal/Conference Reviewer: IEEE TMM, ACM TIST, ACM TOMM, Neurocomputing, MTAP and ACM MM
