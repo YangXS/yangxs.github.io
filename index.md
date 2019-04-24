@@ -29,17 +29,17 @@ I am an Associate Professor at National Lab of Pattern Recognition, Institute of
 * Fan Qi, **Xiaoshan Yang**, Changsheng Xu: A Unified Framework for Multimodal Domain Adaptation. ACM Multimedia 2018: 429-437
 * Junyu Gao, Tianzhu Zhang, **Xiaoshan Yang**, Changsheng Xu: Deep Relative Tracking. IEEE Trans. Image Processing 26(4): 1845-1858 (2017)
 * Yifan Jiao, **Xiaoshan Yang**, Tianzhu Zhang, Shucheng Huang, Changsheng Xu: Video Highlight Detection via Deep Ranking Modeling. PSIVT 2017: 28-39
-* **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Shuicheng Yan, M. Shamim Hossain, Ahmed Ghoneim: Deep Relative Attributes. IEEE Trans. Multimedia 18(9): 1832-1842 (2016). [code](https://github.com/YangXS/DRA)
+* **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Shuicheng Yan, M. Shamim Hossain, Ahmed Ghoneim: Deep Relative Attributes. IEEE Trans. Multimedia 18(9): 1832-1842 (2016). [Code](https://github.com/YangXS/DRA)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Semantic Feature Mining for Video Event Understanding. TOMCCAP 12(4): 55:1-55:22 (2016)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Abnormal Event Discovery in User Generated Photos. ACM Multimedia 2016: 47-51
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: A new discriminative coding method for image classification. Multimedia System 21(2): 133-145 (2015)
-* **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Cross-Domain Feature Learning in Multimedia. IEEE Trans. Multimedia 17(1): 64-78 (2015). [code](https://github.com/YangXS/CDFL)
+* **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Cross-Domain Feature Learning in Multimedia. IEEE Trans. Multimedia 17(1): 64-78 (2015). [Code](https://github.com/YangXS/CDFL)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, M. Shamim Hossain: Automatic Visual Concept Learning for Social Event Understanding. IEEE Trans. Multimedia 17(3): 346-358 (2015)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang: Boosted Multifeature Learning for Cross-Domain Transfer. TOMCCAP 11(3): 35:1-35:18 (2015)
 * Jianbing Shen, **Xiaoshan Yang**, Xuelong Li, Yunde Jia: Intrinsic Image Decomposition Using Optimization and User Scribbles. IEEE Trans. Cybernetics 43(2): 425-436 (2013)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Locality discriminative coding for image classification. ICIMCS 2013: 52-55
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Min Xu: Graph-Guided Fusion Penalty Based Sparse Coding for Image Classification. PCM 2013: 475-484
-* Jianbing Shen, **Xiaoshan Yang**, Yunde Jia, Xuelong Li: Intrinsic images using optimization. CVPR 2011: 3481-3487. [code](https://github.com/shenjianbing/intrinsic11)
+* Jianbing Shen, **Xiaoshan Yang**, Yunde Jia, Xuelong Li: Intrinsic images using optimization. CVPR 2011: 3481-3487. [Code](https://github.com/shenjianbing/intrinsic11)
 
 
 ## Projects
