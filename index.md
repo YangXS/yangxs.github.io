@@ -22,7 +22,7 @@ I am an Associate Researcher at National Lab of Pattern Recognition, Institute o
 * Xuan Ma, **Xiaoshan Yang**, Junyu Gao, Changsheng Xu, Health Status Prediction with Local-Global Heterogeneous Behavior Graph, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2021
 * Yi Huang, **Xiaoshan Yang**, Junyu Gao, Jitao Sang, Changsheng Xu, Knowledge-driven Egocentric Multimodal Activity Recognition, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2020
 * Fan Qi, **Xiaoshan Yang**, Changsheng Xu, Emotion Knowledge Driven Video Highlight Detection, IEEE Transactions on Multimedia (**TMM**), 2020
-Junyu Gao, **Xiaoshan Yang**, Yingying Zhang, Changsheng Xu, Unsupervised Video Summarization via Relation-aware Assignment Learning, IEEE Transactions on Multimedia (**TMM**), 2020
+* Junyu Gao, **Xiaoshan Yang**, Yingying Zhang, Changsheng Xu, Unsupervised Video Summarization via Relation-aware Assignment Learning, IEEE Transactions on Multimedia (**TMM**), 2020
 * Wei Wang, Junyu Gao, **Xiaoshan Yang**, Changsheng Xu: Learning Coarse-to-Fine Graph Neural Networks for Video-Text Retrieval, IEEE Transactions on Multimedia (**TMM**), 2020
 * Shan Zhang, **Xiaoshan Yang**, Yanxia Liu, Changsheng Xu, Asymmetric multi-stage CNNs for small-scale pedestrian detection, **Neurocomputing**, 2020
 * Fan Qi, **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Discriminative multimodal embedding for event classification, **Neurocomputing**, 2020
