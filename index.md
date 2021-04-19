@@ -18,15 +18,15 @@ I am an Associate Researcher at National Lab of Pattern Recognition, Institute o
   + <font size="3">Sparse Coding, Deep Learning, Transfer Learning</font>
 
 ## Publications
-Chaofan Chen, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma: ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
-Xuan Ma, **Xiaoshan Yang**, Junyu Gao, Changsheng Xu, Health Status Prediction with Local-Global Heterogeneous Behavior Graph, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2021
-Yi Huang, **Xiaoshan Yang**, Junyu Gao, Jitao Sang, Changsheng Xu, Knowledge-driven Egocentric Multimodal Activity Recognition, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020
-Fan Qi, **Xiaoshan Yang**, Changsheng Xu, Emotion Knowledge Driven Video Highlight Detection, IEEE Transactions on Multimedia (TMM), 2020
+* Chaofan Chen, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma: ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
+* Xuan Ma, **Xiaoshan Yang**, Junyu Gao, Changsheng Xu, Health Status Prediction with Local-Global Heterogeneous Behavior Graph, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2021
+* Yi Huang, **Xiaoshan Yang**, Junyu Gao, Jitao Sang, Changsheng Xu, Knowledge-driven Egocentric Multimodal Activity Recognition, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020
+* Fan Qi, **Xiaoshan Yang**, Changsheng Xu, Emotion Knowledge Driven Video Highlight Detection, IEEE Transactions on Multimedia (TMM), 2020
 Junyu Gao, **Xiaoshan Yang**, Yingying Zhang, Changsheng Xu, Unsupervised Video Summarization via Relation-aware Assignment Learning, IEEE Transactions on Multimedia (TMM), 2020
-Wei Wang, Junyu Gao, **Xiaoshan Yang**, Changsheng Xu: Learning Coarse-to-Fine Graph Neural Networks for Video-Text Retrieval, IEEE Transactions on Multimedia (TMM), 2020
-Yingying Zhang, Junyu Gao, **Xiaoshan Yang**, Chang Liu, Yan Li, Changsheng Xu: Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020
-Tingting Xie, **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Ioannis Patras: Exploring feature representation and training strategies in temporal action localization. IEEE International Conference on Image Processing (ICIP), 2019
-Yi Huang, **Xiaoshan Yang**, Changsheng Xu: Time-Guided High-Order Attention Model of Longitudinal Heterogeneous Healthcare Data. Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2019
+* Wei Wang, Junyu Gao, **Xiaoshan Yang**, Changsheng Xu: Learning Coarse-to-Fine Graph Neural Networks for Video-Text Retrieval, IEEE Transactions on Multimedia (TMM), 2020
+* Yingying Zhang, Junyu Gao, **Xiaoshan Yang**, Chang Liu, Yan Li, Changsheng Xu: Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020
+* Tingting Xie, **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Ioannis Patras: Exploring feature representation and training strategies in temporal action localization. IEEE International Conference on Image Processing (ICIP), 2019
+* Yi Huang, **Xiaoshan Yang**, Changsheng Xu: Time-Guided High-Order Attention Model of Longitudinal Heterogeneous Healthcare Data. Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2019
 * **Xiaoshan Yang**, Changsheng Xu: Image Captioning by Asking Questions. ACM Transactions on Multimedia Computing, Communications and Applications: (2019)
 * Junyu Gao, Tianzhu Zhang, **Xiaoshan Yang**, Changsheng Xu: P2T: Part-to-Target Tracking via Deep Regression Learning. IEEE Trans. Image Processing 27(6): 3074-3086 (2018)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Deep-Structured Event Modeling for User-Generated Photos. IEEE Trans. Multimedia 20(8): 2100-2113 (2018)
