@@ -24,10 +24,15 @@ I am an Associate Researcher at National Lab of Pattern Recognition, Institute o
 * Fan Qi, **Xiaoshan Yang**, Changsheng Xu, Emotion Knowledge Driven Video Highlight Detection, IEEE Transactions on Multimedia (**TMM**), 2020
 Junyu Gao, **Xiaoshan Yang**, Yingying Zhang, Changsheng Xu, Unsupervised Video Summarization via Relation-aware Assignment Learning, IEEE Transactions on Multimedia (**TMM**), 2020
 * Wei Wang, Junyu Gao, **Xiaoshan Yang**, Changsheng Xu: Learning Coarse-to-Fine Graph Neural Networks for Video-Text Retrieval, IEEE Transactions on Multimedia (**TMM**), 2020
+* Shan Zhang, **Xiaoshan Yang**, Yanxia Liu, Changsheng Xu, Asymmetric multi-stage CNNs for small-scale pedestrian detection, **Neurocomputing**, 2020
+* Fan Qi, **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Discriminative multimodal embedding for event classification, **Neurocomputing**, 2020
+* Xuecheng Ning, **Xiaoshan Yang**, Changsheng Xu, Multi-hop Interactive Cross-Modal Retrieval, International Conference on Multimedia Modeling (**MMM**), 2020
+* Yiming Li, **Xiaoshan Yang**, Changsheng Xu: Structured Neural Motifs: Scene Graph Parsing via Enhanced Context, International Conference on Multimedia Modeling (**MMM**), 2020
 * Yingying Zhang, Junyu Gao, **Xiaoshan Yang**, Chang Liu, Yan Li, Changsheng Xu: Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2020
 * Tingting Xie, **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Ioannis Patras: Exploring feature representation and training strategies in temporal action localization. IEEE International Conference on Image Processing (**ICIP**), 2019
 * Yi Huang, **Xiaoshan Yang**, Changsheng Xu: Time-Guided High-Order Attention Model of Longitudinal Heterogeneous Healthcare Data. Pacific Rim International Conference on Artificial Intelligence (**PRICAI**), 2019
 * **Xiaoshan Yang**, Changsheng Xu: Image Captioning by Asking Questions. ACM Transactions on Multimedia Computing, Communications and Applications (**TOMM**), 2019
+* Weiming Zhang, Yi Huang, Wanting Yu, **Xiaoshan Yang**, Wei Wang, Jitao Sang: Multimodal attribute and feature embedding for activity recognition, Proceedings of the ACM Multimedia Asia, **MM Asia**, 2019
 * Junyu Gao, Tianzhu Zhang, **Xiaoshan Yang**, Changsheng Xu: P2T: Part-to-Target Tracking via Deep Regression Learning. IEEE Trans. Image Processing (**TIP**) 27(6): 3074-3086 (2018)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Deep-Structured Event Modeling for User-Generated Photos. IEEE Trans. Multimedia (**TMM**) 20(8): 2100-2113 (2018)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Text2Video: An End-to-end Learning Framework for Expressing Text With Videos. IEEE Trans. Multimedia (**TMM**) 20(9): 2360-2370 (2018)
