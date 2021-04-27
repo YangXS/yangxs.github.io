@@ -75,4 +75,4 @@ Year | Award | Category
 
 * ACM Multimedia 2018/2019/2020 PC member
 * MM Asia 2019 Area Chair, ICPR 2020 Area Chair
-* Journal/Conference Reviewer: IEEE TMM, PR, ACM TIST, ACM TOMM, Neurocomputing, MTAP and CVPR, ICCV, ACM MM
+* Journal/Conference Reviewer: IEEE TMM, IEEE TCSVT, PR, ACM TIST, ACM TOMM, Neurocomputing, MTAP and CVPR, ICCV, ACM MM
