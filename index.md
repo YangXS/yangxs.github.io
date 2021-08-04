@@ -18,6 +18,8 @@ I am an Associate Researcher at National Lab of Pattern Recognition, Institute o
   + <font size="3">Sparse Coding, Deep Learning, Transfer Learning</font>
 
 ## Publications
+* Yi Huang, **Xiaoshan Yang**, Changsheng Xu: Multimodal Global Relation Knowledge Distillation for Egocentric Action Anticipation, ACM Multimedia (**MM**), 2021
+* Fan Qi, **Xiaoshan Yang**, Changsheng Xu: Zero-shot Video Emotion Recognition via Multimodal Protagonist-aware Transformer Network,  ACM Multimedia (**MM**), 2021
 * Yaguang Song, Junyu Gao, **Xiaoshan Yang**, Changsheng Xu: Learning Hierarchical Video Graph Networks for One-Stop Video Delivery, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2021
 * Yi Huang, **Xiaoshan Yang**, Junyu Gao, Changsheng Xu: Holographic Feature Learning of Egocentric-Exocentric Videos for Multi-Domain Action Recognition, IEEE Transactions on Multimedia (**TMM**), 2021
 * Chaofan Chen, **Xiaoshan Yang**, Changsheng Xu, Xuhui Huang, Zhe Ma: ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning, IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021
