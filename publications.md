@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 
 * Yi Huang, **Xiaoshan Yang**, Changsheng Xu: Multimodal Global Relation Knowledge Distillation for Egocentric Action Anticipation, ACM Multimedia (**MM**), 2021
 * Fan Qi, **Xiaoshan Yang**, Changsheng Xu: Zero-shot Video Emotion Recognition via Multimodal Protagonist-aware Transformer Network,  ACM Multimedia (**MM**), 2021
