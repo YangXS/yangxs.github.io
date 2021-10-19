@@ -16,9 +16,13 @@ sass:
     sass_dir: _sass
 
 nav:
+ #- name: "Home"
+ #  link: "/yangxs.github.io/"
+ #- name: "Resume"
+ #  link: "resume.pdf"
  - name: "Home"
-   link: "/yangxs.github.io/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "home"
+ - name: "Publications"
+   link: "publications"
  - name: "Contact"
    link: "contact"
