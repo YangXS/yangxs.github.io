@@ -16,6 +16,9 @@ layout: default
 * Cooperation Project of Migu: AI Service System for Video Annotation
 * International Collaboration Project of NSFC: Personalized Health Management Based on Real-time Behavioral Data
 
+
+## Presentations
+* 2021-10-24 | Tutorial@ACM MM 2021: Few-shot Learning for Multi-Modality Tasks, Multimodal Few-shot and Zero-shot Learning.
 ## Awards
 
 Year | Award | Category
