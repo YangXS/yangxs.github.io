@@ -2,7 +2,12 @@
 layout: default
 ---
 
-
+* Yiming Li, **Xiaoshan Yang**, Changsheng Xu: Dynamic Scene Graph Generation via Anticipatory Pre-training. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+* Jiabo Ye, Junfeng Tian, Ming Yan, **Xiaoshan Yang**, Xuwu Wang, Ji Zhang, Liang He, Xin Lin: Shifting More Attention to Visual Backbone: Query-modulated Refinement Networks for End-to-End Visual Grounding. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+* **Xiaoshan Yang**, Baochen Xiong, Yi Huang, Changsheng Xu: Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specific Representation Learning. AAAI Conference on Artificial Intelligence (AAAI), 2022, Oral
+* Xinhong Ma, **Xiaoshan Yang**, Junyu Gao, Changsheng Xu: The Model May Fit You: User-Generalized Cross-Modal Retrieval. IEEE Transactions on Multimedia (**TMM**), 2022.
+* Yiming Li, **Xiaoshan Yang**, Xuhui Huang, Zhe Ma, and Changsheng Xu: Zero-shot Predicate Prediction for Scene Graph Parsing. IEEE Transactions on Multimedia (**TMM**), 2022
+* Yaguang Song, **Xiaoshan Yang**, Changsheng Xu: Self-supervised Calorie-aware Heterogeneous Graph Networks for Food Recommendation, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2022
 * Yi Huang, **Xiaoshan Yang**, Changsheng Xu: Multimodal Global Relation Knowledge Distillation for Egocentric Action Anticipation, ACM Multimedia (**MM**), 2021
 * Fan Qi, **Xiaoshan Yang**, Changsheng Xu: Zero-shot Video Emotion Recognition via Multimodal Protagonist-aware Transformer Network,  ACM Multimedia (**MM**), 2021
 * Yaguang Song, Junyu Gao, **Xiaoshan Yang**, Changsheng Xu: Learning Hierarchical Video Graph Networks for One-Stop Video Delivery, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2021
