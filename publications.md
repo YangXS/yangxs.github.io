@@ -38,7 +38,7 @@ layout: default
 * Yifan Jiao, **Xiaoshan Yang**, Tianzhu Zhang, Shucheng Huang, Changsheng Xu: Video Highlight Detection via Deep Ranking Modeling. **PSIVT** 2017: 28-39
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Shuicheng Yan, M. Shamim Hossain, Ahmed Ghoneim: Deep Relative Attributes. IEEE Trans. Multimedia (**TMM**) 18(9): 1832-1842 (2016). [Code](https://github.com/YangXS/DRA)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Semantic Feature Mining for Video Event Understanding. ACM Transactions on Multimedia Computing, Communications and Applications (**TOMM**) 12(4): 55:1-55:22 (2016)
-* **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Abnormal Event Discovery in User Generated Photos. ACM Multimedia (**MM**) 2016: 47-51
+* **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Abnormal Event Discovery in User Generated Photos. ACM Multimedia (**MM**), 2016
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: A new discriminative coding method for image classification. Multimedia System (**MSJ**) 21(2): 133-145 (2015)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu: Cross-Domain Feature Learning in Multimedia. IEEE Trans. Multimedia (**TMM**) 17(1): 64-78 (2015). [Code](https://github.com/YangXS/CDFL)
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, M. Shamim Hossain: Automatic Visual Concept Learning for Social Event Understanding. IEEE Trans. Multimedia (**TMM**) 17(3): 346-358 (2015)
