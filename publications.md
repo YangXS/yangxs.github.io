@@ -8,8 +8,8 @@ layout: default
 * Xinhong Ma, **Xiaoshan Yang**, Junyu Gao, Changsheng Xu: The Model May Fit You: User-Generalized Cross-Modal Retrieval. IEEE Transactions on Multimedia (**TMM**), 2022.
 * Yiming Li, **Xiaoshan Yang**, Xuhui Huang, Zhe Ma, and Changsheng Xu: Zero-shot Predicate Prediction for Scene Graph Parsing. IEEE Transactions on Multimedia (**TMM**), 2022
 * Yaguang Song, **Xiaoshan Yang**, Changsheng Xu: Self-supervised Calorie-aware Heterogeneous Graph Networks for Food Recommendation, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2022
-* Yi Huang, **Xiaoshan Yang**, Changsheng Xu: Multimodal Global Relation Knowledge Distillation for Egocentric Action Anticipation, ACM Multimedia (**MM**), 2021
-* Fan Qi, **Xiaoshan Yang**, Changsheng Xu: Zero-shot Video Emotion Recognition via Multimodal Protagonist-aware Transformer Network,  ACM Multimedia (**MM**), 2021
+* Yi Huang, **Xiaoshan Yang**, Changsheng Xu: Multimodal Global Relation Knowledge Distillation for Egocentric Action Anticipation, ACM Multimedia (**MM**), 2021, Oral
+* Fan Qi, **Xiaoshan Yang**, Changsheng Xu: Zero-shot Video Emotion Recognition via Multimodal Protagonist-aware Transformer Network,  ACM Multimedia (**MM**), 2021, Oral
 * Yaguang Song, Junyu Gao, **Xiaoshan Yang**, Changsheng Xu: Learning Hierarchical Video Graph Networks for One-Stop Video Delivery, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2021
 * Yi Huang, **Xiaoshan Yang**, Junyu Gao, Changsheng Xu: Holographic Feature Learning of Egocentric-Exocentric Videos for Multi-Domain Action Recognition, IEEE Transactions on Multimedia (**TMM**), 2021
 * Chaofan Chen, **Xiaoshan Yang**, Changsheng Xu, Xuhui Huang, Zhe Ma: ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning, IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021
@@ -33,7 +33,7 @@ layout: default
 * Yifan Jiao, Zhetao Li, Shucheng Huang, **Xiaoshan Yang**, Bin Liu, Tianzhu Zhang: Three-Dimensional Attention-Based Deep Ranking Model for Video Highlight Detection. IEEE Trans. Multimedia (**TMM**) 20(10): 2693-2705 (2018)
 * Yikun Sheng, **Xiaoshan Yang**, Changsheng Xu: A Standalone Demo for Quiz Game "Describe and Guess". **MIPR** 2018: 206-207
 * Yikun Sheng, **Xiaoshan Yang**, Xueliang Liu, Changsheng Xu: Attribute-Assisted Domain Transfer from Image to Sketch. **MIPR** 2018: 287-292
-* Fan Qi, **Xiaoshan Yang**, Changsheng Xu: A Unified Framework for Multimodal Domain Adaptation. ACM Multimedia (**MM**), 2018: 429-437
+* Fan Qi, **Xiaoshan Yang**, Changsheng Xu: A Unified Framework for Multimodal Domain Adaptation. ACM Multimedia (**MM**), 2018: 429-437, Oral
 * Junyu Gao, Tianzhu Zhang, **Xiaoshan Yang**, Changsheng Xu: Deep Relative Tracking. IEEE Trans. Image Processing (**TIP**) 26(4): 1845-1858 (2017)
 * Yifan Jiao, **Xiaoshan Yang**, Tianzhu Zhang, Shucheng Huang, Changsheng Xu: Video Highlight Detection via Deep Ranking Modeling. **PSIVT** 2017: 28-39
 * **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Shuicheng Yan, M. Shamim Hossain, Ahmed Ghoneim: Deep Relative Attributes. IEEE Trans. Multimedia (**TMM**) 18(9): 1832-1842 (2016). [Code](https://github.com/YangXS/DRA)
