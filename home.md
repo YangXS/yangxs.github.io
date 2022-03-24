@@ -5,7 +5,7 @@ layout: default
 ## Research Interest
 
 * **Multimedia & Computer Vision:** 
-  + <font size="3">Image/Video Analysis, Action/Event Analysis, Attribute Learning</font>
+  + <font size="3">Image/Video Understanding, Action/Event Analysis, Attribute Learning</font>
 * **Pattern Recognition & Machine Learning:** 
   + <font size="3">Sparse Coding, Deep Learning, Transfer Learning, Few-shot/Zero-shot Learning</font>
 
