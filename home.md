@@ -9,12 +9,14 @@ layout: default
 * **Pattern Recognition & Machine Learning:** 
   + <font size="3">Sparse Coding, Deep Learning, Transfer Learning, Few-shot/Zero-shot Learning</font>
 
+<!--
 ## Projects
 * Youth Fund of NSFC: Knowledge-driven Video Understanding and Analysis
 * Research Program of NLPR: Knowledge-driven Adversarial Video Generation
 * CCF-Tencent Open Fund: Highlight Detection
 * Cooperation Project of Migu: AI Service System for Video Annotation
 * International Collaboration Project of NSFC: Personalized Health Management Based on Real-time Behavioral Data
+-->
 
 ## Awards
 
