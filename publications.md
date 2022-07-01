@@ -2,12 +2,7 @@
 layout: default
 ---
 
-
-<style>
-.emoji-big-size img {font-size: 4rem;}
-</style>
-
-{: .emoji-big-size}
+<i class="fa fa-envelope"></i>
 
 :scroll: Yi Huang, **Xiaoshan Yang**, Ji Zhang, Changsheng Xu: ***Relative Alignment Network for Source-Free Multimodal Video Domain Adaptation***. ACM Multimedia (**MM**), 2022
 
