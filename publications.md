@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+<style>
+.emoji-big-size img {font-size: 4rem;}
+</style>
+
+{: .emoji-big-size}
+
 :scroll: Yi Huang, **Xiaoshan Yang**, Ji Zhang, Changsheng Xu: ***Relative Alignment Network for Source-Free Multimodal Video Domain Adaptation***. ACM Multimedia (**MM**), 2022
 
 :label: Chaofan Chen, **Xiaoshan Yang**, Ming Yan, Changsheng Xu: ***Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning***. ACM Multimedia (**MM**), 2022
