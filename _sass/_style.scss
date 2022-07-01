@@ -51,7 +51,7 @@ hr {
     margin: 0 5px 0 10px;
 }
 .alignable {
-    display: inline-block;
+    display: block;
 }
 .pull-left {
     @extend .alignable;
@@ -70,11 +70,6 @@ hr {
 }
 .wrapper {
     min-height: 100%;
-}
-
-/* added by ###YangXS: For justify alignment */
-.text-justify {
-  text-align: justify;
 }
 
 /* Institute Image */
