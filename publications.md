@@ -2,7 +2,7 @@
 layout: default
 ---
 
-* 📜 Yi Huang, **Xiaoshan Yang**, Ji Zhang, Changsheng Xu: ***Relative Alignment Network for Source-Free Multimodal Video Domain Adaptation***. ACM Multimedia (**MM**), 2022
+* 📜new Yi Huang, **Xiaoshan Yang**, Ji Zhang, Changsheng Xu: ***Relative Alignment Network for Source-Free Multimodal Video Domain Adaptation***. ACM Multimedia (**MM**), 2022
 * Chaofan Chen, **Xiaoshan Yang**, Ming Yan, Changsheng Xu: ***Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning***. ACM Multimedia (**MM**), 2022
 * Fan Qi, Zixin Zhang, **Xiaoshan Yang**, Huaiwen Zhang, Changsheng Xu: ***Feeling Without Sharing: A Federated Video Emotion Recognition Framework Via Privacy-Agnostic Hybrid Aggregation***. ACM Multimedia (**MM**), 2022
 * Yiming Li, **Xiaoshan Yang**, Changsheng Xu: ***Dynamic Scene Graph Generation via Anticipatory Pre-training***. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022
