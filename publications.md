@@ -102,5 +102,3 @@ layout: default
 📜 **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Min Xu: ***Graph-Guided Fusion Penalty Based Sparse Coding for Image Classification***. **PCM** 2013: 475-484
 
 📜 Jianbing Shen, **Xiaoshan Yang**, Yunde Jia, Xuelong Li: ***Intrinsic images using optimization***. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2011: 3481-3487. [Code](https://github.com/shenjianbing/intrinsic11)
-  
-{: .text-justify}
