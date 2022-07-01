@@ -4,7 +4,7 @@ layout: default
 
 <!-- YXS: use emoji by directly copying the icon: https://www.markdownguide.org/extended-syntax/#emoji -->
 
-<div markdown="1" style="display:block; float:left;">
+<div markdown="1" style="display:block;">
 
 📜 Yi Huang, **Xiaoshan Yang**, Ji Zhang, Changsheng Xu: ***Relative Alignment Network for Source-Free Multimodal Video Domain Adaptation***. ACM Multimedia (**MM**), 2022
 
