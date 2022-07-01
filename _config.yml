@@ -26,3 +26,7 @@ nav:
    link: "publications"
  - name: "Contact"
    link: "contact"
+
+
+plugins:
+  - jemoji
