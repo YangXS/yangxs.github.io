@@ -4,6 +4,8 @@ layout: default
 
 <!-- YXS: use emoji by directly copying the icon: https://www.markdownguide.org/extended-syntax/#emoji -->
 
+<span class="justify">
+
 📜 Yi Huang, **Xiaoshan Yang**, Ji Zhang, Changsheng Xu: ***Relative Alignment Network for Source-Free Multimodal Video Domain Adaptation***. ACM Multimedia (**MM**), 2022
 
 
@@ -102,3 +104,5 @@ layout: default
 📜 **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Min Xu: ***Graph-Guided Fusion Penalty Based Sparse Coding for Image Classification***. **PCM** 2013: 475-484
 
 📜 Jianbing Shen, **Xiaoshan Yang**, Yunde Jia, Xuelong Li: ***Intrinsic images using optimization***. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2011: 3481-3487. [Code](https://github.com/shenjianbing/intrinsic11)
+
+</span>
