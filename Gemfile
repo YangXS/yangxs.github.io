@@ -1,1 +1,3 @@
-gem 'jekyll-spaceship', group: :jekyll_plugins
+group :jekyll_plugins do
+  gem 'jekyll-spaceship'
+end
