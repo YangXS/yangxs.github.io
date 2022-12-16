@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Research Interest
+## 🌱 Research Interest
 
 * **Multimedia & Computer Vision:** 
   + <font size="3">Image/Video Understanding, Action/Event Analysis, Attribute Learning</font>
@@ -18,7 +18,7 @@ layout: default
 * International Collaboration Project of NSFC: Personalized Health Management Based on Real-time Behavioral Data
 -->
 
-## Awards
+## 🌱 Awards
 
 Year | Award | Category
 -----|-------|--------
@@ -29,11 +29,11 @@ Year | Award | Category
 
 
 
-## Presentations
+## 🌱 Presentations
 * 2021-10-24 --> Tutorial@ACM MM 2021: Few-shot Learning for Multi-Modality Tasks, Multimodal Few-shot and Zero-shot Learning. [Slide](publications/tutorial_MM2021.pdf)
 
 
-## Services
+## 🌱 Services
 
 * ACM Multimedia 2018/2019/2020/2021 TPC member
 * MM Asia 2019 Area Chair, ICPR 2020 Area Chair
