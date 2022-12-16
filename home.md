@@ -18,7 +18,7 @@ layout: default
 * International Collaboration Project of NSFC: Personalized Health Management Based on Real-time Behavioral Data
 -->
 
-## 🌱 Award
+## ✨ Award
 
 Year | Award | Category
 -----|-------|--------
@@ -29,11 +29,11 @@ Year | Award | Category
 
 
 
-## 🌱 Presentation
+## 🌲 Presentation
 * 2021-10-24 --> Tutorial@ACM MM 2021: Few-shot Learning for Multi-Modality Tasks, Multimodal Few-shot and Zero-shot Learning. [Slide](publications/tutorial_MM2021.pdf)
 
 
-## 🌱 Service
+## 💡 Service
 
 * ACM Multimedia 2018/2019/2020/2021 TPC member
 * MM Asia 2019 Area Chair, ICPR 2020 Area Chair
