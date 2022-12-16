@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## :four_leaf_clover: Welcome to my homepage!
+## 👋 Welcome to my homepage!
 
 <img class="profile-picture" src="yangxs.jpg">
 
