@@ -10,6 +10,6 @@ is_contact: true
 
 [comment]: <>## Mailing Address
 
-📫 **Address**: 1311, Intelligence Building, 95 Zhongguancun East Road, Beijing, China
+🏫 **Address**: 1311, Intelligence Building, 95 Zhongguancun East Road, Beijing, China
 
 
