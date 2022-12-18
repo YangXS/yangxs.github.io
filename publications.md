@@ -4,6 +4,10 @@ layout: default
 
 <!-- YXS: use emoji by directly copying the icon: https://www.markdownguide.org/extended-syntax/#emoji -->
 
+📑 Xuan Ma, **Xiaoshan Yang**, Changsheng Xu: ***Multi-Source Knowledge Reasoning Graph Network for Multi-modal Commonsense Inference***. ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2022
+
+📑 Yuyang Wanyan, **Xiaoshan Yang**, Xuan Ma, Changsheng Xu: ***Dual Scene Graph Convolutional Network for Motivation Prediction***. ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2022
+
 📜 Yi Huang, **Xiaoshan Yang**, Ji Zhang, Changsheng Xu: ***Relative Alignment Network for Source-Free Multimodal Video Domain Adaptation***. ACM Multimedia (**MM**), 2022
 
 
