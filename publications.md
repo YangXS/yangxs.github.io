@@ -4,6 +4,12 @@ layout: default
 
 <!-- YXS: use emoji by directly copying the icon: https://www.markdownguide.org/extended-syntax/#emoji -->
 
+
+
+📜 Yuyang Wanyan, **Xiaoshan Yang**, Chaofan Chen, Changsheng Xu: Active Exploration of Multimodal Complementarity for Few-Shot Action Recognition. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023
+
+📑 Chaofan Chen, **Xiaoshan Yang**, Jinpeng Zhang, Bo Dong, Changsheng Xu: Category Knowledge-guided Parameter Calibration for Few-shot Object Detection. IEEE Transactions on Image Processing (**TIP**), 2023
+
 📑 Xuan Ma, **Xiaoshan Yang**, Changsheng Xu: ***Multi-Source Knowledge Reasoning Graph Network for Multi-modal Commonsense Inference***. ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2022
 
 📑 Yuyang Wanyan, **Xiaoshan Yang**, Xuan Ma, Changsheng Xu: ***Dual Scene Graph Convolutional Network for Motivation Prediction***. ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2022
