@@ -6,9 +6,9 @@ layout: default
 
 
 
-📜 Yuyang Wanyan, **Xiaoshan Yang**, Chaofan Chen, Changsheng Xu: Active Exploration of Multimodal Complementarity for Few-Shot Action Recognition. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023
+📜 Yuyang Wanyan, **Xiaoshan Yang**, Chaofan Chen, Changsheng Xu: ***Active Exploration of Multimodal Complementarity for Few-Shot Action Recognition***. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023
 
-📑 Chaofan Chen, **Xiaoshan Yang**, Jinpeng Zhang, Bo Dong, Changsheng Xu: Category Knowledge-guided Parameter Calibration for Few-shot Object Detection. IEEE Transactions on Image Processing (**TIP**), 2023
+📑 Chaofan Chen, **Xiaoshan Yang**, Jinpeng Zhang, Bo Dong, Changsheng Xu: ***Category Knowledge-guided Parameter Calibration for Few-shot Object Detection***. IEEE Transactions on Image Processing (**TIP**), 2023
 
 📑 Xuan Ma, **Xiaoshan Yang**, Changsheng Xu: ***Multi-Source Knowledge Reasoning Graph Network for Multi-modal Commonsense Inference***. ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2022
 
