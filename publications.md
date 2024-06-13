@@ -4,35 +4,35 @@ layout: default
 
 <!-- YXS: use emoji by directly copying the icon: https://www.markdownguide.org/extended-syntax/#emoji -->
 
-📜 Modality-Collaborative Test-Time Adaptation for Action Recognition, Baochen Xiong, Xiaoshan Yang, Yaguang Song, Yaowei Wang, Changsheng Xu, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
+📜 Baochen Xiong, Xiaoshan Yang, Yaguang Song, Yaowei Wang, Changsheng Xu: ***Modality-Collaborative Test-Time Adaptation for Action Recognition***, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 
-📜 Libra: Building Decoupled Vision System on Large Language Models, Yifan Xu, Xiaoshan Yang, Yaguang Song, Changsheng Xu, International Conference on Machine Learning (**ICML**), 2024
+📜 Yifan Xu, Xiaoshan Yang, Yaguang Song, Changsheng Xu: ***Libra: Building Decoupled Vision System on Large Language Models***, International Conference on Machine Learning (**ICML**), 2024
 
-📑 Cross-Modal Federated Human Activity Recognition, **Xiaoshan Yang**, Baochen Xiong, Yi Huang, Changsheng Xu, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
+📑 **Xiaoshan Yang**, Baochen Xiong, Yi Huang, Changsheng Xu: ***Cross-Modal Federated Human Activity Recognition***, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 
-📜 Multi-modal queried object detection in the wild, Yifan Xu, Mengdan Zhang, Chaoyou Fu, Peixian Chen, **Xiaoshan Yang**, Ke Li, Changsheng Xu, Advances in Neural Information Processing Systems (**NeurIPS**), 2024
+📜 Yifan Xu, Mengdan Zhang, Chaoyou Fu, Peixian Chen, **Xiaoshan Yang**, Ke Li, Changsheng Xu: ***Multi-modal queried object detection in the wild***, Advances in Neural Information Processing Systems (**NeurIPS**), 2024
 
-📑 A Versatile Multimodal Learning Framework For Zero-shot Emotion Recognition, Fan Qi, Huaiwen Zhang, **Xiaoshan Yang**, Changsheng Xu, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024
+📑 Fan Qi, Huaiwen Zhang, **Xiaoshan Yang**, Changsheng Xu: ***A Versatile Multimodal Learning Framework For Zero-shot Emotion Recognition***, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024
 
-📜 Client-Adaptive Cross-Model Reconstruction Network for Modality-Incomplete Multimodal Federated Learning, Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Yaowei Wang, Changsheng Xu, ACM Multimedia (**MM**), 2023
+📜 Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Yaowei Wang, Changsheng Xu: ***Client-Adaptive Cross-Model Reconstruction Network for Modality-Incomplete Multimodal Federated Learning***, ACM Multimedia (**MM**), 2023
 
-📜 Iterative Learning with Extra and Inner Knowledge for Long-tail Dynamic Scene Graph Generation, Yiming Li, **Xiaoshan Yang**, Changsheng Xu, ACM Multimedia (**MM**), 2023
+📜 Yiming Li, **Xiaoshan Yang**, Changsheng Xu: ***Iterative Learning with Extra and Inner Knowledge for Long-tail Dynamic Scene Graph Generation***, ACM Multimedia (**MM**), 2023
 
-📜 mPLUG-Octopus: The Versatile Assistant Empowered by A Modularized End-to-End Multimodal LLM, Qinghao Ye, Haiyang Xu, Ming Yan, Chenlin Zhao, Junyang Wang, **Xiaoshan Yang**, Ji Zhang, Fei Huang, Jitao Sang, Changsheng Xu, ACM Multimedia (**MM**), 2023
+📜 Qinghao Ye, Haiyang Xu, Ming Yan, Chenlin Zhao, Junyang Wang, **Xiaoshan Yang**, Ji Zhang, Fei Huang, Jitao Sang, Changsheng Xu: ***mPLUG-Octopus: The Versatile Assistant Empowered by A Modularized End-to-End Multimodal LLM***, ACM Multimedia (**MM**), 2023
 
-📑 CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding, Linhui Xiao, **Xiaoshan Yang**, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu, IEEE Transactions on Multimedia (**TMM**), 2023
+📑 Linhui Xiao, **Xiaoshan Yang**, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu: ***CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding***, IEEE Transactions on Multimedia (**TMM**), 2023
 
-📑 Sgva-clip: Semantic-guided visual adapting of vision-language models for few-shot image classification, Fang Peng, **Xiaoshan Yang**, Linhui Xiao, Yaowei Wang, Changsheng Xu, IEEE Transactions on Multimedia (**TMM**), 2023
+📑 Fang Peng, **Xiaoshan Yang**, Linhui Xiao, Yaowei Wang, Changsheng Xu: ***Sgva-clip: Semantic-guided visual adapting of vision-language models for few-shot image classification***, IEEE Transactions on Multimedia (**TMM**), 2023
 
-📑 Counterfactual scenario-relevant knowledge-enriched multi-modal emotion reasoning, H Liu, **Xiaoshan Yang**, Changsheng Xu, ACM Transactions on Multimedia Computing, Communications and Applications 19 …	1	2023
+📑 Hao Liu, **Xiaoshan Yang**, Changsheng Xu: ***Counterfactual scenario-relevant knowledge-enriched multi-modal emotion reasoning***, ACM Transactions on Multimedia Computing, Communications and Applications 19 …	1	2023
 
-📑 Recovering generalization via pre-training-like knowledge distillation for out-of-distribution visual question answering, Y Song, **Xiaoshan Yang**, Y Wang, Changsheng Xu, IEEE Transactions on Multimedia (**TMM**), 2023
+📑 Yagong Song, **Xiaoshan Yang**, Yaowei Wang, Changsheng Xu: ***Recovering generalization via pre-training-like knowledge distillation for out-of-distribution visual question answering***, IEEE Transactions on Multimedia (**TMM**), 2023
 
-📑 Multi-source knowledge reasoning graph network for multi-modal commonsense inference, X Ma, **Xiaoshan Yang**, Changsheng Xu, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2023
+📑 Xuan Ma, **Xiaoshan Yang**, Changsheng Xu: ***Multi-source knowledge reasoning graph network for multi-modal commonsense inference***, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2023
 
-📑 Dual scene graph convolutional network for motivation prediction, Y Wanyan, **Xiaoshan Yang**, X Ma, Changsheng Xu, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2023
+📑 Yuyang Wanyan, **Xiaoshan Yang**, Xuan Ma, Changsheng Xu: ***Dual scene graph convolutional network for motivation prediction***, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2023
 
-📑 Self-supervised calorie-aware heterogeneous graph networks for food recommendation, Y Song, **Xiaoshan Yang**, Changsheng Xu, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2023
+📑 Yaguang Song, **Xiaoshan Yang**, Changsheng Xu: ***Self-supervised calorie-aware heterogeneous graph networks for food recommendation***, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2023
 
 
 📜 Yuyang Wanyan, **Xiaoshan Yang**, Chaofan Chen, Changsheng Xu: ***Active Exploration of Multimodal Complementarity for Few-Shot Action Recognition***. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023
