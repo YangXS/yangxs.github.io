@@ -4,9 +4,9 @@ layout: default
 
 <!-- YXS: use emoji by directly copying the icon: https://www.markdownguide.org/extended-syntax/#emoji -->
 
-📜 Baochen Xiong, Xiaoshan Yang, Yaguang Song, Yaowei Wang, Changsheng Xu: ***Modality-Collaborative Test-Time Adaptation for Action Recognition***, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
+📜 Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Yaowei Wang, Changsheng Xu: ***Modality-Collaborative Test-Time Adaptation for Action Recognition***, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 
-📜 Yifan Xu, Xiaoshan Yang, Yaguang Song, Changsheng Xu: ***Libra: Building Decoupled Vision System on Large Language Models***, International Conference on Machine Learning (**ICML**), 2024
+📜 Yifan Xu, **Xiaoshan Yang**, Yaguang Song, Changsheng Xu: ***Libra: Building Decoupled Vision System on Large Language Models***, International Conference on Machine Learning (**ICML**), 2024
 
 📑 **Xiaoshan Yang**, Baochen Xiong, Yi Huang, Changsheng Xu: ***Cross-Modal Federated Human Activity Recognition***, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 
