@@ -5,7 +5,8 @@ layout: default
 <!-- YXS: use emoji by directly copying the icon: https://www.markdownguide.org/extended-syntax/#emoji -->
 
 
-****2024****
+**2024**
+---
 
 
 📜 Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Yaowei Wang, Changsheng Xu: ***Modality-Collaborative Test-Time Adaptation for Action Recognition***, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
@@ -19,7 +20,8 @@ layout: default
 📑 Fan Qi, Huaiwen Zhang, **Xiaoshan Yang**, Changsheng Xu: ***A Versatile Multimodal Learning Framework For Zero-shot Emotion Recognition***, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024
 
 
-****2023****
+**2023**
+---
 
 
 📜 Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Yaowei Wang, Changsheng Xu: ***Client-Adaptive Cross-Model Reconstruction Network for Modality-Incomplete Multimodal Federated Learning***, ACM Multimedia (**MM**), 2023
@@ -44,7 +46,8 @@ layout: default
 📑 Chaofan Chen, **Xiaoshan Yang**, Jinpeng Zhang, Bo Dong, Changsheng Xu: ***Category Knowledge-guided Parameter Calibration for Few-shot Object Detection***. IEEE Transactions on Image Processing (**TIP**), 2023
 
 
-****2023****
+**2022**
+---
 
 
 📑 Xuan Ma, **Xiaoshan Yang**, Changsheng Xu: ***Multi-Source Knowledge Reasoning Graph Network for Multi-modal Commonsense Inference***. ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2022
@@ -73,7 +76,8 @@ layout: default
 📑 Yaguang Song, **Xiaoshan Yang**, Changsheng Xu: ***Self-supervised Calorie-aware Heterogeneous Graph Networks for Food Recommendation***, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2022
 
 
-****2021****
+**2021**
+---
 
 
 📜 Yi Huang, **Xiaoshan Yang**, Changsheng Xu: ***Multimodal Global Relation Knowledge Distillation for Egocentric Action Anticipation***, ACM Multimedia (**MM**), 2021, Oral
@@ -89,7 +93,8 @@ layout: default
 📑 Xuan Ma, **Xiaoshan Yang**, Junyu Gao, Changsheng Xu, ***Health Status Prediction with Local-Global Heterogeneous Behavior Graph***, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2021
 
 
-****2020****
+**2020**
+---
 
 
 📑 Yi Huang, **Xiaoshan Yang**, Junyu Gao, Jitao Sang, Changsheng Xu, ***Knowledge-driven Egocentric Multimodal Activity Recognition***, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2020
@@ -111,7 +116,8 @@ layout: default
 📜 Yingying Zhang, Junyu Gao, **Xiaoshan Yang**, Chang Liu, Yan Li, Changsheng Xu: ***Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks***, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2020
 
 
-****2019****
+**2019**
+---
 
 
 📜 Tingting Xie, **Xiaoshan Yang**, Tianzhu Zhang, Changsheng Xu, Ioannis Patras: ***Exploring feature representation and training strategies in temporal action localization***. IEEE International Conference on Image Processing (**ICIP**), 2019
@@ -123,7 +129,8 @@ layout: default
 📜 Weiming Zhang, Yi Huang, Wanting Yu, **Xiaoshan Yang**, Wei Wang, Jitao Sang: ***Multimodal attribute and feature embedding for activity recognition***, Proceedings of the ACM Multimedia Asia, **MM Asia**, 2019
 
 
-****2018****
+**2018**
+---
 
 
 📑 Junyu Gao, Tianzhu Zhang, **Xiaoshan Yang**, Changsheng Xu: ***P2T: Part-to-Target Tracking via Deep Regression Learning***. IEEE Trans. Image Processing (**TIP**) 27(6): 3074-3086 (2018)
@@ -141,7 +148,8 @@ layout: default
 📜 Fan Qi, **Xiaoshan Yang**, Changsheng Xu: ***A Unified Framework for Multimodal Domain Adaptation***. ACM Multimedia (**MM**), 2018: 429-437, Oral
 
 
-****Early****
+**Early**
+---
 
 
 📑 Junyu Gao, Tianzhu Zhang, **Xiaoshan Yang**, Changsheng Xu: ***Deep Relative Tracking***. IEEE Trans. Image Processing (**TIP**) 26(4): 1845-1858 (2017)
