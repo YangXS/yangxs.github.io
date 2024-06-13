@@ -28,10 +28,6 @@ layout: default
 
 📑 Yagong Song, **Xiaoshan Yang**, Yaowei Wang, Changsheng Xu: ***Recovering generalization via pre-training-like knowledge distillation for out-of-distribution visual question answering***, IEEE Transactions on Multimedia (**TMM**), 2023
 
-📑 Xuan Ma, **Xiaoshan Yang**, Changsheng Xu: ***Multi-source knowledge reasoning graph network for multi-modal commonsense inference***, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2023
-
-📑 Yuyang Wanyan, **Xiaoshan Yang**, Xuan Ma, Changsheng Xu: ***Dual scene graph convolutional network for motivation prediction***, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2023
-
 📑 Yaguang Song, **Xiaoshan Yang**, Changsheng Xu: ***Self-supervised calorie-aware heterogeneous graph networks for food recommendation***, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2023
 
 
