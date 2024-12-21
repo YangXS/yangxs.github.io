@@ -24,7 +24,7 @@ layout: default
 
 📜 Linhui Xiao, **Xiaoshan Yang**, Fang Peng, Yaowei Wang, Changsheng Xu: ***HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding***, ACM Multimedia (**MM**) 2024
 
-📜 Linhui Xiao, **Xiaoshan Yang**, Fang Peng, Yaowei Wang, Changsheng Xu:OneRef: ***Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling***, Advances in Neural Information Processing Systems (**NeurIPS**) 2024
+📜 Linhui Xiao, **Xiaoshan Yang**, Fang Peng, Yaowei Wang, Changsheng Xu: ***OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling***, Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
 📑 **Xiaoshan Yang**, Baochen Xiong, Yi Huang, Changsheng Xu: ***Cross-Modal Federated Human Activity Recognition***, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 
