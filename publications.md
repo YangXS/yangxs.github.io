@@ -10,6 +10,7 @@ layout: default
 ---
 
 📜 Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Yaowei Wang, Changsheng Xu: ***Pilot: Building the Federated Multimodal Instruction Tuning Framework***, AAAI Conference on Artificial Intelligence (**AAAI**) 2025
+
 📜 Chaofan Chen, **Xiaoshan Yang**, Changsheng Xu: ***Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning***, AAAI Conference on Artificial Intelligence (**AAAI**) 2025
 
 
@@ -22,6 +23,7 @@ layout: default
 📜 Yifan Xu, **Xiaoshan Yang**, Yaguang Song, Changsheng Xu: ***Libra: Building Decoupled Vision System on Large Language Models***, International Conference on Machine Learning (**ICML**), 2024
 
 📜 Linhui Xiao, **Xiaoshan Yang**, Fang Peng, Yaowei Wang, Changsheng Xu: ***HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding***, ACM Multimedia (**MM**) 2024
+
 📜 Linhui Xiao, **Xiaoshan Yang**, Fang Peng, Yaowei Wang, Changsheng Xu:OneRef: ***Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling***, Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
 📑 **Xiaoshan Yang**, Baochen Xiong, Yi Huang, Changsheng Xu: ***Cross-Modal Federated Human Activity Recognition***, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
