@@ -5,6 +5,14 @@ layout: default
 <!-- YXS: use emoji by directly copying the icon: https://www.markdownguide.org/extended-syntax/#emoji -->
 
 
+
+**2025**
+---
+
+📜 Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Yaowei Wang, Changsheng Xu: ***Pilot: Building the Federated Multimodal Instruction Tuning Framework***, AAAI Conference on Artificial Intelligence (**AAAI**) 2025
+📜 Chaofan Chen, **Xiaoshan Yang**, Changsheng Xu: ***Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning***, AAAI Conference on Artificial Intelligence (**AAAI**) 2025
+
+
 **2024**
 ---
 
@@ -13,11 +21,18 @@ layout: default
 
 📜 Yifan Xu, **Xiaoshan Yang**, Yaguang Song, Changsheng Xu: ***Libra: Building Decoupled Vision System on Large Language Models***, International Conference on Machine Learning (**ICML**), 2024
 
+📜 Linhui Xiao, **Xiaoshan Yang**, Fang Peng, Yaowei Wang, Changsheng Xu: ***HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding***, ACM Multimedia (**MM**) 2024
+📜 Linhui Xiao, **Xiaoshan Yang**, Fang Peng, Yaowei Wang, Changsheng Xu:OneRef: ***Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling***, Advances in Neural Information Processing Systems (**NeurIPS**) 2024
+
 📑 **Xiaoshan Yang**, Baochen Xiong, Yi Huang, Changsheng Xu: ***Cross-Modal Federated Human Activity Recognition***, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 
-📜 Yifan Xu, Mengdan Zhang, Chaoyou Fu, Peixian Chen, **Xiaoshan Yang**, Ke Li, Changsheng Xu: ***Multi-modal queried object detection in the wild***, Advances in Neural Information Processing Systems (**NeurIPS**), 2024
+📑 Yifan Xu, Mengdan Zhang, **Xiaoshan Yang**, Changsheng Xu: ***Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection***, IEEE Transactions on Image Processing (**TIP**) 2024
+
+📑 Han Jiang, Chaofan Chen, **Xiaoshan Yang**, and Changsheng Xu: ***Compact Latent Primitive Space Learning for Compositional Zero-Shot Learning***, IEEE Transactions on Multimedia (**TMM**) 2024
 
 📑 Fan Qi, Huaiwen Zhang, **Xiaoshan Yang**, Changsheng Xu: ***A Versatile Multimodal Learning Framework For Zero-shot Emotion Recognition***, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024
+
+📑 Jiabo Ye, Junfeng Tian, Ming Yan, Haiyang Xu, Qinghao Ye, Yaya Shi, **Xiaoshan Yang**, Xuwu Wang, Ji Zhang, Liang He, Xin Lin: ***UniQRNet: Unifying Referring Expression Grounding and Segmentation with QRNet***, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**) 2024
 
 
 **2023**
@@ -29,6 +44,8 @@ layout: default
 📜 Yiming Li, **Xiaoshan Yang**, Changsheng Xu: ***Iterative Learning with Extra and Inner Knowledge for Long-tail Dynamic Scene Graph Generation***, ACM Multimedia (**MM**), 2023
 
 📜 Qinghao Ye, Haiyang Xu, Ming Yan, Chenlin Zhao, Junyang Wang, **Xiaoshan Yang**, Ji Zhang, Fei Huang, Jitao Sang, Changsheng Xu: ***mPLUG-Octopus: The Versatile Assistant Empowered by A Modularized End-to-End Multimodal LLM***, ACM Multimedia (**MM**), 2023
+
+📜 Yifan Xu, Mengdan Zhang, Chaoyou Fu, Peixian Chen, **Xiaoshan Yang**, Ke Li, Changsheng Xu: ***Multi-modal queried object detection in the wild***, Advances in Neural Information Processing Systems (**NeurIPS**), 2023
 
 📑 Linhui Xiao, **Xiaoshan Yang**, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu: ***CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding***, IEEE Transactions on Multimedia (**TMM**), 2023
 
