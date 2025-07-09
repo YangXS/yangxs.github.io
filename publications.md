@@ -13,6 +13,8 @@ layout: default
 
 📑 Han Jiang, **Xiaoshan Yang**, Chaofan Chen, and Changsheng Xu. ***SPDQ: Syner­getic Prompts as Disentanglement Queries for Compositional Zero-­Shot Learn­ing***, IEEE Transactions on Multimedia (***TMM***) 2025
 
+📑 Fang Peng, **Xiaoshan Yang**, Linhui Xiao, Yaowei Wang and Changsheng Xu, ***Progressive Learning of Instance-Level Proxy Semantics for Few-Shot Action Recognition***, IEEE Transactions on Multimedia (***TMM***) 2025
+
 📜 Yiming Li, **Xiaoshan Yang**, Bing-Kun Bao, Changsheng Xu: ***Graph Prompts: Adapting Video Graph for Video Question Answering***, International Joint Conference on Artificial Intelligence(***IJCAI***) 2025
 
 📜 Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Yaowei Wang, Changsheng Xu: ***Pilot: Building the Federated Multimodal Instruction Tuning Framework***, AAAI Conference on Artificial Intelligence (**AAAI**) 2025
