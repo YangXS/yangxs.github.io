@@ -9,6 +9,9 @@ layout: default
 **2025**
 ---
 
+
+Han Jiang, **Xiaoshan Yang**, Chaofan Chen, and Changsheng Xu. ***SPDQ: Syner­getic Prompts as Disentanglement Queries for Compositional Zero-­Shot Learn­ing***, IEEE Transactions on Multimedia (***TMM***), 2025.
+
 📑 Yuyang Wanyan, **Xiaoshan Yang**, Weiming Dong, Changsheng Xu: ***A Comprehensive Review of Few-Shot Action Recognition***, International Journal of Computer Vision (***IJCV***) 2025
 
 📜 Yiming Li, **Xiaoshan Yang**, Bing-Kun Bao, Changsheng Xu: ***Graph Prompts: Adapting Video Graph for Video Question Answering***, International Joint Conference on Artificial Intelligence(***IJCAI***) 2025
