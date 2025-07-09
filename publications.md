@@ -9,6 +9,10 @@ layout: default
 **2025**
 ---
 
+📑 Yuyang Wanyan, **Xiaoshan Yang**, Weiming Dong, Changsheng Xu: ***A Comprehensive Review of Few-Shot Action Recognition***, International Journal of Computer Vision (***IJCV***) 2025
+
+📜 Yiming Li, **Xiaoshan Yang**, Bing-Kun Bao, Changsheng Xu: ***Graph Prompts: Adapting Video Graph for Video Question Answering***, International Joint Conference on Artificial Intelligence(***IJCAI***) 2025
+
 📜 Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Yaowei Wang, Changsheng Xu: ***Pilot: Building the Federated Multimodal Instruction Tuning Framework***, AAAI Conference on Artificial Intelligence (**AAAI**) 2025
 
 📜 Chaofan Chen, **Xiaoshan Yang**, Changsheng Xu: ***Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning***, AAAI Conference on Artificial Intelligence (**AAAI**) 2025
