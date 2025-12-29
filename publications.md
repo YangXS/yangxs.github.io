@@ -9,6 +9,12 @@ layout: default
 **2025**
 ---
 
+📑 Linhui Xiao, **Xiaoshan Yang**, Xiangyuan Lan, Yaowei Wang, Changsheng Xu: Towards Visual Grounding: A Survey. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) (2025)
+
+
+📜 Yuyang Wanyan, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Jiabo Ye, Yutong Kou, Ming Yan, Fei Huang, **Xiaoshan Yang**, Weiming Dong, Changsheng Xu: ***Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation***, Neural Information Processing Systems (***NeurIPS***) 2025
+
+
 📑 Yuyang Wanyan, **Xiaoshan Yang**, Weiming Dong, Changsheng Xu: ***A Comprehensive Review of Few-Shot Action Recognition***, International Journal of Computer Vision (***IJCV***) 2025
 
 📑 Han Jiang, **Xiaoshan Yang**, Chaofan Chen, and Changsheng Xu: ***SPDQ: Syner­getic Prompts as Disentanglement Queries for Compositional Zero-­Shot Learn­ing***, IEEE Transactions on Multimedia (***TMM***) 2025
