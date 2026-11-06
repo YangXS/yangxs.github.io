@@ -9,11 +9,23 @@ layout: default
 **2025**
 ---
 
+📑 Zibo Shao, Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Qimeng Zhang, Haifeng Chen, and Changsheng Xu: ***PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging***, IEEE Transactions on Multimedia (**TMM**), 2026
+
+📑 Kaichen Li, **Xiaoshan Yang**, Yaguang Song, Baochen Xiong, Yaowei Wang, and Changsheng Xu: ***Task Interference Mitigation via Conffdence-Stratiffed Classiffer Calibration for Prompt-based Continual Learning***, IEEE Transactions on Image Processing (**TIP**), 2026
+
+📑 Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Yaowei Wang, and Changsheng Xu: ***A Generalized Framework for Modality-Incomplete Federated Learning***, International Journal of Computer Vision (**IJCV**), 2026
+
+📜 Baochen Xiong, Yifan Xu, Yaguang Song, **Xiaoshan Yang**: ***FedPivot: Bridging Heterogeneous Multimodal Pre-training via Federated Post-Alignment***, ACM International Conference on Multimedia (**MM**), 2026
+
+📑 Yuyang Wanyan, \textbf{Xiaoshan Yang}, Weiming Dong, Changsheng Xu: ***Modality-Collaborative Low-Rank Decomposers for Few-Shot Video Domain Adaptation***, IEEE Transactions on Multimedia (**TMM**), 2026
+
+📑 Han Jiang, **Xiaoshan Yang**, Hongtao Xie, Chaoxu Mu, Yongdong Zhang, and Changsheng Xu, ***Active Concept-Collaborative Online Test-Time Adaptation for Compositional Zero-Shot Learning***, IEEE Transactions on Multimedia (**TMM**), 2026
+
+📑 Fang Peng, **Xiaoshan Yang**, Yaowei Wang, Changsheng Xu: ***Group-Relative Visual Discrimination Enhancement for Unlocking Intrinsic Capability of MLLMs***, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2026
+
 📑 Linhui Xiao, **Xiaoshan Yang**, Xiangyuan Lan, Yaowei Wang, Changsheng Xu: ***Towards Visual Grounding: A Survey***. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) (2025)
 
-
 📜 Yuyang Wanyan, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Jiabo Ye, Yutong Kou, Ming Yan, Fei Huang, **Xiaoshan Yang**, Weiming Dong, Changsheng Xu: ***Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation***, Neural Information Processing Systems (***NeurIPS***) 2025
-
 
 📑 Yuyang Wanyan, **Xiaoshan Yang**, Weiming Dong, Changsheng Xu: ***A Comprehensive Review of Few-Shot Action Recognition***, International Journal of Computer Vision (***IJCV***) 2025
 
