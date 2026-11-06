@@ -5,8 +5,7 @@ layout: default
 <!-- YXS: use emoji by directly copying the icon: https://www.markdownguide.org/extended-syntax/#emoji -->
 
 
-
-**2025**
+**2026**
 ---
 
 📑 Zibo Shao, Baochen Xiong, **Xiaoshan Yang**, Yaguang Song, Qimeng Zhang, Haifeng Chen, and Changsheng Xu: ***PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging***, IEEE Transactions on Multimedia (**TMM**), 2026
@@ -22,6 +21,9 @@ layout: default
 📑 Han Jiang, **Xiaoshan Yang**, Hongtao Xie, Chaoxu Mu, Yongdong Zhang, and Changsheng Xu, ***Active Concept-Collaborative Online Test-Time Adaptation for Compositional Zero-Shot Learning***, IEEE Transactions on Multimedia (**TMM**), 2026
 
 📑 Fang Peng, **Xiaoshan Yang**, Yaowei Wang, Changsheng Xu: ***Group-Relative Visual Discrimination Enhancement for Unlocking Intrinsic Capability of MLLMs***, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2026
+
+**2025**
+---
 
 📑 Linhui Xiao, **Xiaoshan Yang**, Xiangyuan Lan, Yaowei Wang, Changsheng Xu: ***Towards Visual Grounding: A Survey***. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) (2025)
 
