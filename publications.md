@@ -16,7 +16,7 @@ layout: default
 
 📜 Baochen Xiong, Yifan Xu, Yaguang Song, **Xiaoshan Yang**: ***FedPivot: Bridging Heterogeneous Multimodal Pre-training via Federated Post-Alignment***, ACM International Conference on Multimedia (**MM**), 2026
 
-📑 Yuyang Wanyan, \textbf{Xiaoshan Yang}, Weiming Dong, Changsheng Xu: ***Modality-Collaborative Low-Rank Decomposers for Few-Shot Video Domain Adaptation***, IEEE Transactions on Multimedia (**TMM**), 2026
+📑 Yuyang Wanyan, **Xiaoshan Yang**, Weiming Dong, Changsheng Xu: ***Modality-Collaborative Low-Rank Decomposers for Few-Shot Video Domain Adaptation***, IEEE Transactions on Multimedia (**TMM**), 2026
 
 📑 Han Jiang, **Xiaoshan Yang**, Hongtao Xie, Chaoxu Mu, Yongdong Zhang, and Changsheng Xu, ***Active Concept-Collaborative Online Test-Time Adaptation for Compositional Zero-Shot Learning***, IEEE Transactions on Multimedia (**TMM**), 2026
 
